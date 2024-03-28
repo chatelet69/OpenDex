@@ -1,0 +1,27 @@
+version: '3'
+
+services:
+  api:
+    deploy:
+      resources:
+        limits:
+          memory: "250M"
+    ports:
+      - 3001:3001
+    volumes:
+      - ./api:/usr/src/api
+    environment:
+      - NODE_ENV=production
+    restart: always
+  front:
+    deploy:
+      resources:
+        limits:
+          memory: "100M"
+    ports:
+      - 3000:3000
+    volumes:
+      - ./opendex_front/build:/usr/src/frontapp
+    environment:
+      - NODE_ENV=production
+    restart: always
