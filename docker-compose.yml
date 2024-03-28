@@ -21,7 +21,20 @@ services:
     ports:
       - 3000:3000
     volumes:
-      - ./opendex_front/build:/usr/src/frontapp
+      - ./opendex_front/build:/src/app
     environment:
       - NODE_ENV=production
     restart: always
+  node:
+    image: "node:8"
+    user: "node"
+    working_dir: /home/node/app
+    environment:
+      - NODE_ENV=production
+    volumes:
+      - ./:/home/node/app
+    expose:
+      - "3001"
+    ports:
+      - "3001:3001"
+    command: "npm start"

@@ -1,0 +1,5 @@
+FROM node:21
+
+EXPOSE 3001
+
+RUN 
