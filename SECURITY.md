@@ -11,4 +11,4 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 
-If you see any security issue, please contact our support at mail@gmail.com
+If you see any security issue, please contact our support at mail@gmail.com or create a new issue and select "Report a security vulnerability"
