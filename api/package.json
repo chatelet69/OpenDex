@@ -1,0 +1,5 @@
+{
+    "script": {
+      "start": "npx tsc && node dist/index.js"
+    }
+  }
