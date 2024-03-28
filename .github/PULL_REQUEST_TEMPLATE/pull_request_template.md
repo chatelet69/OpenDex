@@ -7,7 +7,7 @@
 ## Remaining tasks
 <!--If you still have tasks to do, write them here-->
 - [x] Task #1
-- [ ] Task #2
+- [x] Task #2
 - [ ] Final task :tada:
 
 ## Other informations
