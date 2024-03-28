@@ -2,7 +2,7 @@
 ## List of changes
 - Category name
   - First nested list item
-    - Second nested list item
+    - Description
 
 ## Remaining tasks
 <!--If you still have tasks to do, write them here-->
@@ -25,3 +25,6 @@
 
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
+
+## Mentions 
+@author
