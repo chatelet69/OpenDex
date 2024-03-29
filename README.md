@@ -161,3 +161,6 @@ You can find our Github profiles below
 
 ## For contributors
 See [the contributors guide](./CONTRIBUTING.md)
+
+## Changelog
+See [the changelog](./CHANGELOG.md)
