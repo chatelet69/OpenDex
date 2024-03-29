@@ -21,20 +21,4 @@ Before creating an issue, it's a good idea to take a look at the templates prese
 
 ## Code of Conduct
 
-#### Standards to be respected:
-
-- Use inclusive language
-- Respect the different points of view and experiences of other contributors
-- Accept constructive criticism from community members
-- Show respect and indulgence to community members
-
-#### Prohibited behavior:
-
-- Disrespectful behavior, abusive, grossophobic, sexist, homophobic, racist or other comments
-- Sharing private (e.g. personal) or sensitive information
-- Behavior that might embarrass someone or be considered harassment
-
-
-## Attribution
-
-This code of conduct is inspired by the Contributor Covenant code of conduct, and is available at this address: http://contributor-covenant.org
+See Code of Conduct file within the github repository at https://github.com/chatelet69/OpenDex/blob/main/CODE_OF_CONDUCT.md
