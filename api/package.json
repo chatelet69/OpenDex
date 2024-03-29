@@ -1,5 +1,27 @@
 {
-    "script": {
-      "start": "npx tsc && node dist/index.js"
+    "private": true,
+    "name": "opendex",
+    "version": "0.1.0",
+    "homepage": "https://github.com/chatelet69/OpenDex",
+    "license": "MIT",
+    "main": "./src/index.ts",
+    "packageManager": "npm@10.5.0",
+    "author": {
+        "name": "@PommePain, @Spykoninho, @Rayannmp4"
+    },
+    "scripts": {
+        "start": "npx tsc && node dist/index.js"
+    },
+    "dependencies": {
+        "@types/multer": "^1.4.11",
+        "body-parser": "^1.20.2",
+        "express": "^4.19.2",
+        "multer": "^1.4.5-lts.1"
+    },
+    "devDependencies": {
+        "@types/dotenv": "^8.2.0",
+        "@types/express": "^4.17.21",
+        "concurrently": "^8.2.2",
+        "typescript": "^5.4.3"
     }
-  }
+}

@@ -61,6 +61,8 @@ Of course, don't forget to replace the .env file in /api with the configuration 
 
 ```bash
 npm install
+Each part need dependencies
+npm run install_libs
 npm start
 ```
 
