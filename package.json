@@ -21,8 +21,9 @@
         "npm": ">= 8.4"
     },
     "scripts": {
-        "dev": "nodemon index.ts",
-        "start": ""
+        "api": "cd api && npx tsc && node dist/index.js",
+        "front": "cd opendex_front && npm start",
+        "start": "concurrently --kill-others \"npm run api\" \"npm run front\""
     },
     "dependencies": {
         "@types/multer": "^1.4.11",
