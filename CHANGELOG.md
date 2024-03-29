@@ -1,7 +1,7 @@
 # Changelog
 
 ## Historique de versions
-- 0.1.0
+- v.0.1.0-beta
   
 ## v.0.1.0-beta
 ### Major changes
