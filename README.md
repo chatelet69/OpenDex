@@ -16,6 +16,7 @@ Here, we've decided to create a small web application using React for the fronte
    - [Database](#database)
    - [Docker](#docker)
 - [Run](#run)
+- [Architecture](#architecture)
 - [License](#license)
 - [Authors](#authors)
 
