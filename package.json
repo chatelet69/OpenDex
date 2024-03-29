@@ -23,8 +23,8 @@
     "scripts": {
         "api": "cd api && npx tsc && node dist/index.js",
         "front": "cd opendex_front && npm start",
-        "install_libs": "concurrently --kill-others \"cd api && npm install\" \"cd opendex_front && npm install\"",
-        "start": "concurrently --kill-others \"npm run api\" \"npm run front\""
+        "install_libs": "concurrently \"cd api && npm install\" \"cd opendex_front && npm install\"",
+        "start": "concurrently \"npm run api\" \"npm run front\""
     },
     "devDependencies": {
         "concurrently": "^8.2.2",
