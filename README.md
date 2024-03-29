@@ -156,3 +156,6 @@ You can find our Github profiles below
 - <a href="https://github.com/PommePain">@L4p1s</a>
 - <a href="https://github.com/Rayannmp4">@Rayannmp4</a>
 - <a href="https://github.com/Spykoninho">@Spyko</a>
+
+## For contributors
+See [the contributors guide](./CONTRIBUTING.md)
