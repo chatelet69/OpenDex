@@ -26,6 +26,14 @@ Firstly, it all depends on whether you intend to use the various components via 
 
 See below for your preferred option. 
 
+Before any install, you need to clone the project
+
+```bash
+git clone https://github.com/chatelet69/OpenDex.git
+or via SSH
+git clone git@github.com:chatelet69/OpenDex.git
+```
+
 ### Docker Container
 
 A docker-compose file is present at the root of the directory, containing 3 services: the api, the front end and the database. For the API, a Dockerfile is also present to provide the image for building the api.
