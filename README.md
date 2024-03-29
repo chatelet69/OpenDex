@@ -158,4 +158,4 @@ You can find our Github profiles below
 - <a href="https://github.com/Spykoninho">@Spyko</a>
 
 ## For contributors
-See [the contributors guide](./CONTRIBUTORS.md)
+See [the contributors guide](./CONTRIBUTING.md)
