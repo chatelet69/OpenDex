@@ -1,14 +1,18 @@
 # Pull request name
-## List of changes
+## Major changes
 - Category name
-  - First nested list item
+  - First list item
     - Description
 
-## Remaining tasks
-<!--If you still have tasks to do, write them here-->
-- [x] Task #1
-- [x] Task #2
-- [ ] Final task :tada:
+## Minor changes
+- Category name
+  - First list item
+    - Description
+
+## Bug & security fixes
+- Bug or security fixe name
+  - First list item
+    - Description
 
 ## Other informations
 > [!NOTE]
