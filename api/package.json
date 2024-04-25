@@ -10,7 +10,8 @@
         "name": "@PommePain, @Spykoninho, @Rayannmp4"
     },
     "scripts": {
-        "start": "npx tsc && node dist/index.js"
+        "start": "npx tsc && npm run copy-pokedex && node dist/index.js",
+        "copy-pokedex": "xcopy json dist\\json /E /S /H"
     },
     "dependencies": {
         "@types/multer": "^1.4.11",

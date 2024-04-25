@@ -164,3 +164,8 @@ See [the contributors guide](./CONTRIBUTING.md)
 
 ## Changelog
 See [the changelog](./CHANGELOG.md)
+
+
+#### postscript
+
+Thx to https://github.com/fanzeyi/pokemon.json for the pokedex
